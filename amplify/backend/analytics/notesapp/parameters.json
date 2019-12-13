@@ -1,0 +1,20 @@
+{
+    "appName": "notesapp",
+    "roleName": "pinpointLambdaRole0fac52cc",
+    "cloudWatchPolicyName": "cloudWatchPolicy0fac52cc",
+    "pinpointPolicyName": "pinpointPolicy0fac52cc",
+    "authPolicyName": "pinpoint_amplify_0fac52cc",
+    "unauthPolicyName": "pinpoint_amplify_0fac52cc",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

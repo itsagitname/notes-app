@@ -1,0 +1,20 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-notesapp-prod-182146-authRole",
+            "UnauthRoleArn": "arn:aws:iam::231516528794:role/amplify-notesapp-prod-182146-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::231516528794:role/amplify-notesapp-prod-182146-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "amplify-notesapp-prod-182146-deployment",
+            "UnauthRoleName": "amplify-notesapp-prod-182146-unauthRole",
+            "StackName": "amplify-notesapp-prod-182146",
+            "StackId": "arn:aws:cloudformation:ap-south-1:231516528794:stack/amplify-notesapp-prod-182146/53a4e1c0-1da7-11ea-b562-0695265dabc8",
+            "AmplifyAppId": "dokuqzh7gchr1"
+        },
+        "categories": {
+            "auth": {
+                "cognitoc40763ba": {}
+            }
+        }
+    }
+}
