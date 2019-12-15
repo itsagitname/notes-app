@@ -1,4 +1,4 @@
-# NotesApp (Grofers Intership Exercise)
+# NotesApp (Grofers Internship Exercise)
 
 Steps to run this application: <br />
 Type this commands in the root directory of the application in the Node.js command prompt <br />
